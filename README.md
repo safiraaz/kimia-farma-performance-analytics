@@ -29,4 +29,4 @@ Mengevaluasi kinerja bisnis Kimia Farma tahun 2020-2023 melalui analisis data tr
 ## Hasil
 Tabel analisa berisi 672.458 transaksi.
 
-Link Dashboard: (menyusul)
+Link Dashboard: (https://datastudio.google.com/reporting/df6418e9-e58c-4273-b7a5-f1f2cee12282)
