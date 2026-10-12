@@ -95,7 +95,7 @@ Kolom: `transaction_id`, `date`, `branch_id`, `branch_name`, `kota`, `provinsi`,
 
 **Safira Aulia Az Zahra**, mahasiswa Informatika, Fakultas Teknologi Informasi dan Sains Data, Universitas Sebelas Maret.
 
-- LinkedIn: linkedin.com/in/safiraauliaazzahra
+- LinkedIn: [linkedin.com/in/safiraauliaazzahra]
 - Email: [safiraulia272006@gmail.com]
 
 *Project ini dibuat sebagai bagian dari Virtual Internship Big Data Analytics, Kimia Farma x Rakamin Academy.*
