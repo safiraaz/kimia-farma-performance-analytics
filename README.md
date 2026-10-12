@@ -9,7 +9,7 @@ Analisis kinerja bisnis Kimia Farma tahun 2020 sampai 2023 menggunakan **Google 
 | | |
 |---|---|
 | Dashboard | [Buka dashboard](https://datastudio.google.com/reporting/df6418e9-e58c-4273-b7a5-f1f2cee12282) |
-| Video presentasi | [Tonton di YouTube]([link YouTube]) |
+| Video presentasi | [https://youtu.be/uMI76SGqR9U]) |
 
 ## Ringkasan
 
